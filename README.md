@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Messagely is a clone of Meta's Messenger, a robust chat application used by Facebook users to communicate with one another.
+Mjumbe is a clone of Meta's Messenger, a robust chat application used by Facebook users to communicate with one another.
 
-Messagely was developed using NextJS 13, MongoDB, Pusher and Prisma. For the site's styling, the power of [Tailwind CSS](https://tailwindcss.com/docs/installation) to make it aesthetically pleasing for the users.
+Mjumbe was developed using NextJS 13, MongoDB, Pusher and Prisma. For the site's styling, the power of [Tailwind CSS](https://tailwindcss.com/docs/installation) to make it aesthetically pleasing for the users.
 
 Authentication has been handled using Next Auth as well as the good old email and password appproach with the password being hashed using bcrypt.
 
@@ -22,7 +22,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [Messagely](https://messagely.vercel.app) with your browser to see the result.
+Open [Mjumbe](https://mjumbe.vercel.app) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
