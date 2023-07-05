@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Messagely is a clone of Meta's Messenger, a robust chat application used by Facebook users to communicate with one another.
 
-Messagely was developed using NextJS 13, MongoDB, Pusher and Prisma. For the site's styling, the power of [[Tailwind CSS]https](https://tailwindcss.com/docs/installation) to make it aesthetically pleasing for the users.
+Messagely was developed using NextJS 13, MongoDB, Pusher and Prisma. For the site's styling, the power of [[Tailwind CSS](https://tailwindcss.com/docs/installation) to make it aesthetically pleasing for the users.
 
 Authentication has been handled using Next Auth as well as the good old email and password appproach with the password being hashed using bcrypt.
 
