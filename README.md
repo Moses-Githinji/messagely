@@ -8,7 +8,7 @@ Authentication has been handled using Next Auth as well as the good old email an
 
 Realtime messages and notifications are handled by Pusher.
 
-With NextJS's lightning fast speeds and a PWA(Portable Web App), Messagely allows its users to always stay connected wherever they are.
+With NextJS's lightning fast speeds and a PWA(Portable Web App) feature out of the box, Messagely allows its users to always stay connected wherever they are.
 
 ## Getting Started
 
