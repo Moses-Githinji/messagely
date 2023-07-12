@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Mjumbe is a clone of Meta's Messenger, a robust chat application used by Facebook users to communicate with one another.
+
+Mjumbe was developed using NextJS 13, MongoDB, Pusher and Prisma. For the site's styling, the power of [Tailwind CSS](https://tailwindcss.com/docs/installation) to make it aesthetically pleasing for the users.
+
+Authentication has been handled using Next Auth as well as the good old email and password appproach with the password being hashed using bcrypt.
+
+Realtime messages and notifications are handled by Pusher.
+
+With NextJS's lightning fast speeds and a PWA(Portable Web App) feature out of the box, Messagely allows its users to always stay connected wherever they are.
+
 ## Getting Started
 
 First, run the development server:
@@ -12,7 +22,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [Mjumbe](https://mjumbe.vercel.app) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
