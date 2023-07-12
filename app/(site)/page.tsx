@@ -40,7 +40,7 @@ export default function Home() {
             text-gray-900
           "
         >
-          Messagely
+          Mjumbe
         </h2>
       </div>
       <AuthForm />
